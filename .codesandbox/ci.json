@@ -1,0 +1,4 @@
+{
+  "installCommand": "npm install",
+  "sandboxes": ["wk04r016q8"]
+}
